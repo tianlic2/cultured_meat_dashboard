@@ -4,4 +4,3 @@ numpy
 plotly
 nltk
 wordcloud
-re
