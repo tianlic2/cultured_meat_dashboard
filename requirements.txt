@@ -1,6 +1,7 @@
 streamlit
+plotly
 pandas
 numpy
-plotly
 nltk
 wordcloud
+matplotlib
